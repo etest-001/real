@@ -1,1 +1,1 @@
-pass
+print("fork 001")
